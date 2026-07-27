@@ -11,11 +11,17 @@ aux_links:
 
 collections:
   forms:
-    permalink: "/forms/:path/"
+    permalink: "/forms/:path/"    
     output: true
+  images:
+    permalink: "/images/:path/"
+    output: true    
 
 just_the_docs:
   collections:
     forms:
       name: Formulários
+      nav_fold: true
+    images:
+      name: Imagens
       nav_fold: true
