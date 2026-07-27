@@ -6,3 +6,11 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Define Jekyll collections
+collections:
+  # Define a collection named "forms", its documents reside in the "_forms" directory
+  forms:
+    permalink: "/:collection/:path/"
+    name: 8. Formulários
+    output: true
