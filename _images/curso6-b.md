@@ -3,6 +3,7 @@ title: Imagens Informativas
 layout: default
 nav_order: 2
 ---
+# Imagens Informativas
 
 ## Introdução
 
