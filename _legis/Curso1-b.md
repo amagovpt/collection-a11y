@@ -1,5 +1,7 @@
 ---
-lang: pt
+title: EN 301 549
+layout: default
+nav_order: 2
 ---
 
 # Introdução à Norma Europeia EN 301 549
