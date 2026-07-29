@@ -1,5 +1,7 @@
 ---
-lang: pt
+title: Aplicação dos conceitos
+layout: default
+nav_order: 4
 ---
 
 # Aplicação dos Conceitos de Acessibilidade
