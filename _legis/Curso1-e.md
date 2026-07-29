@@ -1,5 +1,7 @@
 ---
-lang: pt
+title: Estrutura WCAG
+layout: default
+nav_order: 5
 ---
 
 # Estrutura das Diretrizes de Acessibilidade para Conteúdo Web (WCAG)
