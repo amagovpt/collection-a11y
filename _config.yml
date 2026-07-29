@@ -30,5 +30,5 @@ just_the_docs:
       name: 6. Imagens
       nav_fold: true
     forms:
-      name: Formulários
+      name: 8. Formulários
       nav_fold: true
