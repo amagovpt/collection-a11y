@@ -1,5 +1,7 @@
 ---
-lang: pt
+title: Legislação Portuguesa
+layout: default
+nav_order: 1
 ---
 
 # Introdução à Legislação de Acessibilidade Digital em Portugal
