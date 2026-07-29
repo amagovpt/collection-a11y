@@ -1,6 +1,5 @@
 ---
 title: Introdução
-parent: Imagens
 layout: default
 nav_order: 1
 ---
