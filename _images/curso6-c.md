@@ -1,3 +1,9 @@
+---
+title: Imagens Decorativas
+layout: default
+nav_order: 3
+---
+
 # Imagens Decorativas
 
 ## Introdução
