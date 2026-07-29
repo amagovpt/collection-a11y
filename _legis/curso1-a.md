@@ -8,7 +8,7 @@ nav_order: 1
 
 A acessibilidade digital não é apenas uma questão de boa prática ou responsabilidade ética, mas também é um requisito legal. Em Portugal, a legislação que rege a acessibilidade digital está enraizada nos princípios de igualdade, não discriminação e design universal, visando garantir que todas as pessoas, independentemente das suas capacidades, possam aceder e usar conteúdos digitais.
 
-![Evolução temporal da legislação portuguesa sobre acessibilidade, de 1999 a 2022](img/1-1.png)
+![Evolução temporal da legislação portuguesa sobre acessibilidade, de 1999 a 2022](../../img/1-1.png)
 
 A legislação portuguesa sobre acessibilidade digital é principalmente orientada por dois momentos chave:
 
