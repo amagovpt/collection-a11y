@@ -1,7 +1,7 @@
 ---
 title: CAPTCHAs
 layout: default
-nav_order: 2
+nav_order: 6
 ---
 
 # CAPTCHAs
