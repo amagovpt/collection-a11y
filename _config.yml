@@ -10,18 +10,25 @@ aux_links:
 # Define Jekyll collections
 
 collections:
-  forms:
-    permalink: "/forms/:path/"    
+  legis:
+    permalink: "/legis/:path/"    
     output: true
   images:
     permalink: "/images/:path/"
-    output: true    
+    output: true
+  forms:
+    permalink: "/forms/:path/"    
+    output: true
+    
 
 just_the_docs:
   collections:
-    forms:
-      name: Formulários
+    legis:
+      name: 1. Legislação
       nav_fold: true
     images:
       name: 6. Imagens
+      nav_fold: true
+    forms:
+      name: Formulários
       nav_fold: true
