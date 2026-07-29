@@ -1,0 +1,14 @@
+---
+lang: pt
+---
+
+# Aplicação dos Conceitos de Acessibilidade
+
+A aplicação efetiva dos conceitos de acessibilidade é essencial para garantir que o conteúdo digital seja acessível a todos os utilizadores, independentemente das suas capacidades. Aqui estão alguns exemplos de como esses conceitos podem ser aplicados na prática:
+
+1. Percetível: Uma maneira de tornar o conteúdo visual percetível para pessoas que não podem ver é fornecer descrições alternativas em texto para todas as imagens, gráficos e vídeos. Por exemplo, uma imagem de um cão a brincar no parque poderia ter uma descrição em texto alternativa como "Um cão alegre a correr num parque ensolarado". Da mesma forma, para tornar o conteúdo auditivo percetível para pessoas que não podem ouvir, as legendas devem ser fornecidas para todos os vídeos com som. Por exemplo, um vídeo de uma palestra deve ter legendas que transcrevam exatamente o que o orador está a dizer.
+2. Operável: Para garantir que um sítio ou aplicação seja operável para todos os utilizadores, é importante que todas as funcionalidades possam ser acedidas e operadas de várias maneiras. Por exemplo, os utilizadores devem ser capazes de navegar num sítio usando apenas o teclado, sem a necessidade de um rato. Além disso, os botões e ligações devem ser suficientemente grandes e espaçados para que possam ser facilmente selecionados por utilizadores com coordenação motora limitada.
+3. Compreensível: Para tornar um sítio ou aplicação compreensível, é importante usar linguagem clara e simples e garantir que a navegação seja consistente em todas as páginas. Por exemplo, o menu de navegação deve aparecer no mesmo local em todas as páginas e as ligações devem ser claramente rotuladas para indicarem para onde levam. Além disso, quando os utilizadores inserem informações, como ao preencher um formulário, devem ser fornecidas indicações e mensagens de erro claras para ajudar os utilizadores a evitar e corrigir erros.
+4. Robusta: Para garantir a robustez de um sítio ou aplicação, é importante seguir os padrões de codificação e testar o sítio ou aplicação em uma variedade de tecnologias de apoio e navegadores. Por exemplo, o sítio deve ser codificado usando HTML válido e semântico, e deve ser testado em vários leitores de ecrã e navegadores para garantir que funciona corretamente em todos eles.
+
+Ao aplicar estes conceitos de acessibilidade, é importante lembrar que a acessibilidade beneficia todos os utilizadores, não apenas aqueles com deficiências. Um site ou aplicação que é percetível, operável, compreensível e robusto será mais fácil de usar e mais agradável para todos os utilizadores.
