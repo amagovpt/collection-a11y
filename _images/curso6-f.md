@@ -1,3 +1,9 @@
+---
+title: CAPTCHAs
+layout: default
+nav_order: 2
+---
+
 # CAPTCHAs
 
 ## Introdução
