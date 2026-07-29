@@ -1,5 +1,7 @@
 ---
-lang: pt
+title: Níveis WCAG
+layout: default
+nav_order: 6
 ---
 
 # Compreendendo os Níveis de Conformidade das WCAG
