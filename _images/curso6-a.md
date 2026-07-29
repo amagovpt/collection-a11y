@@ -4,8 +4,6 @@ parent: Imagens
 nav_order: 1
 ---
 
-# Imagens
-
 ## Introdução
 
 ### Como as Pessoas com Deficiência usam Imagens
