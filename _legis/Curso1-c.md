@@ -1,5 +1,7 @@
 ---
-lang: pt
+title: Princípios POUR
+layout: default
+nav_order: 3
 ---
 
 # Compreendendo os Conceitos de Acessibilidade: Percetível, Operável, Compreensível e Robusto
