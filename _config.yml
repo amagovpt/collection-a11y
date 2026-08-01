@@ -10,11 +10,11 @@ aux_links:
 # Define Jekyll collections
 
 collections:
-  html:
-    permalink: "/html/:path/"    
-    output: true
   legis:
     permalink: "/legis/:path/"    
+    output: true
+  html:
+    permalink: "/html/:path/"    
     output: true
   images:
     permalink: "/images/:path/"
@@ -26,11 +26,11 @@ collections:
 
 just_the_docs:
   collections:
-    html:
-      name: 2. Semântica HTML
-      nav_fold: true
     legis:
       name: 1. Legislação
+      nav_fold: true
+    html:
+      name: 2. Semântica HTML
       nav_fold: true
     images:
       name: 6. Imagens
