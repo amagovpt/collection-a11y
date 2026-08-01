@@ -16,6 +16,9 @@ collections:
   html:
     permalink: "/html/:path/"    
     output: true
+  text:
+    permalink: "/text/:path/"    
+    output: true
   images:
     permalink: "/images/:path/"
     output: true
@@ -32,6 +35,9 @@ just_the_docs:
     html:
       name: 2. Semântica HTML
       nav_fold: true
+    text:
+      name: 4. Texto
+      nav_fold: true    
     images:
       name: 6. Imagens
       nav_fold: true
