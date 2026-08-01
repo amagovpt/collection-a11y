@@ -1,3 +1,9 @@
+---
+title: Gráficos e Visualização de Dados Acessíveis
+layout: default
+nav_order: 6
+---
+
 # Gráficos e Visualização de Dados Acessíveis
 
 ## Introdução
