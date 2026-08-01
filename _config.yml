@@ -36,7 +36,7 @@ just_the_docs:
       name: 2. Semântica HTML
       nav_fold: true
     text:
-      name: 4. Texto
+      name: 3. Texto
       nav_fold: true    
     images:
       name: 6. Imagens
