@@ -22,6 +22,9 @@ collections:
   visual:
     permalink: "/visual/:path/"    
     output: true  
+  menus:
+    permalink: "/menus/:path/"    
+    output: true    
   images:
     permalink: "/images/:path/"
     output: true
@@ -44,6 +47,9 @@ just_the_docs:
     visual:
       name: 4. Desenho Visual
       nav_fold: true  
+    menus:
+      name: 5. Menus
+      nav_fold: true      
     images:
       name: 6. Imagens
       nav_fold: true
