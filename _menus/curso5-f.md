@@ -1,3 +1,9 @@
+---
+title: Menus de Aplicações
+layout: default
+nav_order: 6
+---
+
 # Menus de Aplicações
 
 ## Introdução
