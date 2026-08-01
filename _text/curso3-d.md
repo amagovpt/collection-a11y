@@ -1,3 +1,9 @@
+---
+title: Abreviaturas e Acrónimos
+layout: default
+nav_order: 4
+---
+
 # Abreviaturas e Acrónimos
 
 ## Introdução
