@@ -19,6 +19,9 @@ collections:
   text:
     permalink: "/text/:path/"    
     output: true
+  visual:
+    permalink: "/visual/:path/"    
+    output: true  
   images:
     permalink: "/images/:path/"
     output: true
@@ -37,7 +40,10 @@ just_the_docs:
       nav_fold: true
     text:
       name: 3. Texto
-      nav_fold: true    
+      nav_fold: true   
+    visual:
+      name: 4. Desenho Visual
+      nav_fold: true  
     images:
       name: 6. Imagens
       nav_fold: true
