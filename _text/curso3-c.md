@@ -1,3 +1,9 @@
+---
+title: Apresentação Visual do Texto
+layout: default
+nav_order: 3
+---
+
 # Apresentação Visual de Conteúdo Texto
 
 ## Introdução
