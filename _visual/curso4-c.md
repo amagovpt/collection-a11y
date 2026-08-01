@@ -1,3 +1,9 @@
+---
+title: Indicadores de Foco
+layout: default
+nav_order: 3
+---
+
 # Indicadores de Foco
 
 ## Introdução
