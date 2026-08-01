@@ -1,3 +1,9 @@
+---
+title: Distrações Visuais
+layout: default
+nav_order: 5
+---
+
 # Distrações Visuais
 
 ## Introdução
