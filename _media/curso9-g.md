@@ -1,3 +1,8 @@
+---
+title: Boas Práticas de Produção
+layout: default
+nav_order: 7
+---
 # Boas Práticas de Produção
 
 ## Introdução
