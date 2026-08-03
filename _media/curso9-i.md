@@ -1,3 +1,8 @@
+---
+title: Conclusão e Boas Práticas
+layout: default
+nav_order: 9
+---
 # Conclusão e Boas Práticas
 
 Chegámos ao fim do módulo dedicado ao **conteúdo multimédia e às animações**. Ao longo das secções anteriores, percorremos cada peça deste puzzle: as animações e o vídeo, a escolha da alternativa certa, as transcrições, as legendas, a descrição da informação visual, a língua gestual, as boas práticas de produção e os leitores de multimédia.
