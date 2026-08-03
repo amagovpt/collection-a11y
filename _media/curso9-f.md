@@ -1,3 +1,8 @@
+---
+title: Língua Gestual
+layout: default
+nav_order: 6
+---
 # Língua Gestual
 
 ## Introdução
