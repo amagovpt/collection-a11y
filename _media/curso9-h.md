@@ -1,3 +1,8 @@
+---
+title: Leitores de Multimédia
+layout: default
+nav_order: 8
+---
 # Leitores de Multimédia
 
 ## Introdução
