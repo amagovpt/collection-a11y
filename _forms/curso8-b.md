@@ -1,3 +1,8 @@
+---
+title: Estrutura e Posicionamento
+layout: default
+nav_order: 2
+---
 # Estrutura e Posicionamento
 
 ## Introdução
