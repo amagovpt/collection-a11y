@@ -1,3 +1,8 @@
+---
+title: Conclusão e Boas Práticas
+layout: default
+nav_order: 1
+---
 # Conclusão e Boas Práticas
 
 ## Recapitulação
