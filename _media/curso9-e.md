@@ -1,3 +1,8 @@
+---
+title: Descrição de Informação Visual
+layout: default
+nav_order: 5
+---
 # Descrição de Informação Visual
 
 ## Introdução
