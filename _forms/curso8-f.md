@@ -1,3 +1,8 @@
+---
+title: Conclusão e Boas Práticas
+layout: default
+nav_order: 6
+---
 # Conclusão e Boas Práticas
 
 Ao longo deste módulo, olhámos para os formulários peça a peça: a forma como as pessoas com deficiência os utilizam, a estrutura e o posicionamento dos campos, os rótulos e instruções, as notificações e mensagens de erro, e os formulários com múltiplos passos.
