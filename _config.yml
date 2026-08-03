@@ -28,10 +28,15 @@ collections:
   images:
     permalink: "/images/:path/"
     output: true
+  tables:
+    permalink: "/tables/:path/"
+    output: true    
   forms:
     permalink: "/forms/:path/"    
     output: true
-    
+  media:
+    permalink: "/media/:path/"
+    output: true    
 
 just_the_docs:
   collections:
@@ -53,6 +58,12 @@ just_the_docs:
     images:
       name: 6. Imagens
       nav_fold: true
+    tables:
+      name: 7. Tabelas
+      nav_fold: true
     forms:
       name: 8. Formulários
+      nav_fold: true
+    media:
+      name: 9. Multimédia
       nav_fold: true
