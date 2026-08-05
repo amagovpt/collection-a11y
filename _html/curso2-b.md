@@ -7,11 +7,11 @@ nav_order: 2
 # Cabeçalhos
 {: .no_toc }
 
-## Nesta página
-{: .no_toc }
-
-1. TOC
-{:toc}
+<details>
+  <summary>Nesta página:</summary>
+  1. TOC
+  {:toc}
+</details>
 
 ---
 
