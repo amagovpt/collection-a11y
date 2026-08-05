@@ -6,6 +6,8 @@ nav_order: 3
 
 # Landmarks
 
+{% include toc.html %}
+
 ## Introdução
 
 Os landmarks (pontos de referência) são como a planta de um edifício - ajudam as pessoas a entender onde estão e como navegar pelo espaço. No contexto web, landmarks são elementos HTML que definem as diferentes áreas funcionais de uma página.
