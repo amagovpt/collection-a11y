@@ -6,6 +6,8 @@ nav_order: 4
 
 # Elementos Semânticos
 
+{% include toc.html %}
+
 ## Introdução
 
 Os elementos semânticos do HTML são como as peças de um jogo de LEGO - cada uma tem um propósito específico e, quando usadas corretamente, criam uma estrutura significativa e acessível.
