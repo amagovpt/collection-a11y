@@ -11,7 +11,7 @@ nav_order: 2
 {: .no_toc }
 
 1. TOC
-{:toc}
+{:toc .toc-only-h2}
 
 ---
 
