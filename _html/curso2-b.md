@@ -6,6 +6,12 @@ nav_order: 2
 
 # Cabeçalhos
 
+## Nesta página
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 ## Introdução
 
 Os cabeçalhos são como os sinais de trânsito de uma página web - eles guiam os utilizadores pelo conteúdo e ajudam-nos a entender a sua organização. Para pessoas com deficiência, os cabeçalhos são ainda mais cruciais, funcionando como pontos de referência essenciais.
