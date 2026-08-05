@@ -8,9 +8,13 @@ nav_order: 2
 
 <details open>
   <summary><strong>Nesta página</strong></summary>
+
+  <div markdown="1">
   
   1. TOC
   {:toc}
+
+  </div>
 
 </details>
 
