@@ -6,6 +6,8 @@ nav_order: 5
 
 # Preocupações Adicionais de Acessibilidade Relacionadas com Estrutura e Semântica
 
+{% include toc.html %}
+
 ## Saltar Blocos de Conteúdo Repetidos
 
 ### Problemas de Acessibilidade
