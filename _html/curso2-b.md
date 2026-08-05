@@ -6,10 +6,12 @@ nav_order: 2
 
 # Cabeçalhos
 
-<details>
-  <summary>Nesta página:</summary>
+<details open>
+  <summary><strong>Nesta página:</strong>strong></summary>
+  
   1. TOC
   {:toc}
+
 </details>
 
 ---
