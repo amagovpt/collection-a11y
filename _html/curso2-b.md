@@ -5,7 +5,6 @@ nav_order: 2
 ---
 
 # Cabeçalhos
-{: .no_toc }
 
 <details>
   <summary>Nesta página:</summary>
