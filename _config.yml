@@ -8,7 +8,8 @@ aux_links:
   Template Repository: https://github.com/amagovpt/collection-a11y
 
 kramdown:
-  toc_levels: 2
+  input: GFM
+  toc_levels: 2..2
 
 # Define Jekyll collections
 
