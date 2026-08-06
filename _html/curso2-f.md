@@ -6,6 +6,8 @@ nav_order: 5
 
 # Conclusão e Boas Práticas
 
+{% include toc.html %}
+
 ## Recapitulação
 
 Ao longo deste módulo, explorámos como criar sítios web acessíveis das perspetivas estrutural e semântica. Os pontos principais que abordámos foram:
