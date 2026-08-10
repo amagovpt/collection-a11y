@@ -1,3 +1,8 @@
+---
+title: Notificações e Atualizações de Conteúdo
+layout: default
+nav_order: 4
+---
 # Notificações e Atualizações de Conteúdo
 
 ## Introdução
