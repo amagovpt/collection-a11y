@@ -1,3 +1,8 @@
+---
+title: PDF: Verificação e Correção
+layout: default
+nav_order: 5
+---
 # PDF: Verificação e Correção
 
 ## Introdução
