@@ -1,3 +1,8 @@
+---
+title: Escolher o Formato e Organizar o Trabalho
+layout: default
+nav_order: 7
+---
 # Escolher o Formato e Organizar o Trabalho
 
 ## Introdução
