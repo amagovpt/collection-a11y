@@ -1,3 +1,8 @@
+---
+title: Estruturas e Relações
+layout: default
+nav_order: 2
+---
 # Estruturas e Relações
 
 ## Introdução
