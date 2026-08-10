@@ -40,34 +40,52 @@ collections:
     output: true
   media:
     permalink: "/media/:path/"
-    output: true    
+    output: true 
+  widgets:
+    permalink: "/widgets/:path/"
+    output: true   
+  aria:
+    permalink: "/aria/:path/"
+    output: true   
+  nonweb:
+    permalink: "/nonweb/:path/"
+    output: true        
 
 just_the_docs:
   collections:
     legis:
-      name: 1. Legislação
+      name: Curso 1. Normas e Diretrizes
       nav_fold: true
     html:
-      name: 2. Semântica HTML
+      name: Curso 2. Estrutura de Páginas
       nav_fold: true
     text:
-      name: 3. Texto
+      name: Curso 3. Conteúdo Texto
       nav_fold: true   
     visual:
-      name: 4. Desenho Visual
+      name: Curso 4. Desenho Visual
       nav_fold: true  
     menus:
-      name: 5. Menus
+      name: Curso 5. Menus
       nav_fold: true      
     images:
-      name: 6. Imagens
+      name: Curso 6. Imagens
       nav_fold: true
     tables:
-      name: 7. Tabelas
+      name: Curso 7. Tabelas
       nav_fold: true
     forms:
-      name: 8. Formulários
+      name: Curso 8. Formulários
       nav_fold: true
     media:
-      name: 9. Multimédia
+      name: Curso 9. Multimédia
       nav_fold: true
+    widgets:
+      name: Curso 10. Widgets
+      nav_fold: true
+    aria:
+      name: Curso 11. Aplicações Ricas (ARIA)
+      nav_fold: true  
+    noweb:
+      name: Curso 12. Outros Documentos
+      nav_fold: true      
