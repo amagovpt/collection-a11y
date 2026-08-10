@@ -1,3 +1,8 @@
+---
+title: Ordem de Leitura e Foco
+layout: default
+nav_order: 3
+---
 # Ordem de Leitura e Foco
 
 ## Introdução
