@@ -1,3 +1,8 @@
+---
+title: Propriedades, Estados e Valores
+layout: default
+nav_order: 2
+---
 # Propriedades, Estados e Valores de Widgets
 
 ## Introdução
