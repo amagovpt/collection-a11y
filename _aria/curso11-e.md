@@ -1,3 +1,8 @@
+---
+title: Conclusão e Boas Práticas
+layout: default
+nav_order: 5
+---
 # Conclusão e Boas Práticas
 
 Chegámos ao fim do módulo. As quatro secções anteriores trataram, cada uma, de uma pergunta diferente sobre a mesma coisa: uma interface que se comporta como um programa, mas que continua a viver dentro de um navegador.
