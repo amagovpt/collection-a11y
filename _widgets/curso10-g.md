@@ -1,3 +1,8 @@
+---
+title: Widgets Complexos
+layout: default
+nav_order: 7
+---
 # Widgets Complexos
 
 ## Introdução
