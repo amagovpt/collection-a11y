@@ -1,3 +1,8 @@
+---
+title: Regiões Dinâmicas
+layout: default
+nav_order: 6
+---
 # Regiões Dinâmicas
 
 ## Introdução
