@@ -1,5 +1,5 @@
 ---
-title: Início
+title: A Coleção
 layout: home
 nav_order: 1
 ---
@@ -24,18 +24,18 @@ Pode:
 
 | Curso | Descrição |
 |-------|-----------|
-| 1. Legislação | Enquadramento legal da acessibilidade digital. |
-| 2. Semântica HTML | Estrutura semântica e utilização correta dos elementos HTML. |
-| 3. Texto | Conteúdos textuais, linguagem simples e legibilidade. |
+| 1. Normas e Diretrizes | Enquadramento legal da acessibilidade digital. |
+| 2. Estrutura de uma Página Web | Estrutura semântica e utilização correta dos elementos HTML. |
+| 3. Conteúdo Texto | Conteúdos de texto, linguagem simples e legibilidade. |
 | 4. Desenho Visual | Cor, contraste, tipografia e apresentação visual. |
 | 5. Menus | Navegação, menus, breadcrumbs e orientação. |
 | 6. Imagens | Texto alternativo, imagens decorativas, gráficos e SVG. |
 | 7. Tabelas | Estrutura, cabeçalhos, relações e tabelas complexas. |
 | 8. Formulários | Labels, validação, mensagens de erro e ajuda ao preenchimento. |
 | 9. Multimédia | Vídeo, áudio, legendas, audiodescrição e transcrições. |
-| 10. Componentes Interativos | Diálogos, acordeões, separadores, carrosséis e widgets ARIA. |
-| 11. Documentos | PDF e outros documentos acessíveis. |
-| 12. Auditoria | Metodologias, ferramentas e avaliação da conformidade. |
+| 10. Componentes Interativos (Widgets) | Diálogos, acordeões, separadores, carrosséis e widgets ARIA. |
+| 11. ARIA | Aplicações Enriquecidas. |
+| 12. Documentos Não Web | Word, Powerpoint, PDF |
 
 ## Convenções utilizadas
 
@@ -55,11 +55,11 @@ Ao longo da coleção serão utilizados diferentes tipos de destaque:
 
 ## Recursos adicionais
 
-- WCAG 2.2
-- EN 301 549
-- AccessMonitor
-- WAI-ARIA Authoring Practices
-- MDN Web Docs
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/)
+- [EN 301 549](https://accessible-eu-centre.ec.europa.eu/content-corner/digital-library/en-3015492021-accessibility-requirements-ict-products-and-services_en)
+- [AccessMonitor](https://accessmonitor.acessibilidade.gov.pt)
+- [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ---
 
