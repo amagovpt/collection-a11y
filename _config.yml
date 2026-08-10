@@ -86,6 +86,6 @@ just_the_docs:
     aria:
       name: Curso 11. ARIA
       nav_fold: true  
-    noweb:
+    nonweb:
       name: Curso 12. Outros Docs
       nav_fold: true      
