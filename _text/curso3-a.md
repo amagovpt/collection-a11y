@@ -1,10 +1,10 @@
 ---
-title: Introdução
+title: Conteúdo Texto
 layout: default
 nav_order: 1
 ---
 
-# Texto
+# Conteúdo Texto
 
 ## Introdução
 
